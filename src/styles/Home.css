@@ -1,0 +1,14 @@
+.home{
+    text-align: center;
+    
+
+}
+#imgPrincipal{
+    height: 400px;
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+}
+*{
+    background: whitesmoke;
+}
